@@ -7,5 +7,9 @@
       }
     ]
   ],
-  "plugins": ["styled-jsx/babel"]
+  "plugins": [
+    [
+      "styled-jsx/babel"
+    ]
+  ]
 }
